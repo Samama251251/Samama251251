@@ -14,7 +14,7 @@ Host: National University of Sciences & Technology (NUST)
 Location: Islamabad, Pakistan
 
 Languages: 
-  - Rust, Java, TypeScript/JavaScript, Python, C/C++, Golang
+  - TypeScript/JavaScript, Python, C/C++, Golang
 
 Web & Markup: 
   - HTML, CSS, Tailwind CSS
@@ -24,6 +24,6 @@ Databases:
 
 Frameworks & Tools: 
   - React, Node.js, Express, Django, Docker,FastAPi,Flask
-  - TensorFlow/PyTorch, Auto-Keras, NNI, Hugging Face
+  - TensorFlow/PyTorch, Auto-Keras, Hugging Face, Langchain
 ```
   &nbsp; 
