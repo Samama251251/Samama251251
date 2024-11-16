@@ -1,13 +1,12 @@
 ```zsh
-> neofetch
+> Whp?
 ```
 
-<img align="left" src="https://i.ibb.co/Zf8T8Fn/pinkMiku.png" alt="pinkMiku" border="0" width="320"></img>
 
 ```csharp
 rainsfal1@github
 -------------------------
-OS: MacOS arm64
+OS: Linux
 Shell: fish 3.6
 Uptime: 18 years
 Pronouns: He/Him
@@ -15,18 +14,17 @@ Host: National University of Sciences & Technology (NUST)
 Location: Islamabad, Pakistan
 
 Languages: 
-  - Rust, Java, TypeScript/JavaScript, Python, C/C++, Go
+  - Rust, Java, TypeScript/JavaScript, Python, C/C++, Golang
 
 Web & Markup: 
   - HTML, CSS, Tailwind CSS
 
 Databases: 
-  - MongoDB, PostgreSQL, MySQL, ElasticSearch
+  - MongoDB, PostgreSQL,
 
 Frameworks & Tools: 
-  - React, Node.js, Express, Django, Docker
+  - React, Node.js, Express, Django, Docker,FastAPi,Flask
   - TensorFlow/PyTorch, Auto-Keras, NNI, Hugging Face
-  - Tokio, Rayon, CMake, Qt
 
 Discord: rainsfall
 ```
