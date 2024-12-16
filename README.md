@@ -9,7 +9,6 @@ samama251251@github
 OS: Linux
 Shell: fish 3.6
 Uptime: 18 years
-Pronouns: He/Him
 Host: National University of Sciences & Technology (NUST)
 Location: Islamabad, Pakistan
 
